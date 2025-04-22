@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      hono:
+        specifier: 4.7.5
+        version: 4.7.5
       vue:
         specifier: ^3.5.13
         version: 3.5.13(typescript@5.8.3)
@@ -1002,6 +1005,10 @@ packages:
   he@1.2.0:
     resolution: {integrity: sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==}
     hasBin: true
+
+  hono@4.7.5:
+    resolution: {integrity: sha512-fDOK5W2C1vZACsgLONigdZTRZxuBqFtcKh7bUQ5cVSbwI2RWjloJDcgFOVzbQrlI6pCmhlTsVYZ7zpLj4m4qMQ==}
+    engines: {node: '>=16.9.0'}
 
   hookable@5.5.3:
     resolution: {integrity: sha512-Yc+BQe8SvoXH1643Qez1zqLRmbA5rCL+sSmk6TVos0LWVfNIB7PGncdlId77WzLGSIB5KaWgTaNTs2lNVEI6VQ==}
@@ -2377,6 +2384,8 @@ snapshots:
   graceful-fs@4.2.11: {}
 
   he@1.2.0: {}
+
+  hono@4.7.5: {}
 
   hookable@5.5.3: {}
 
