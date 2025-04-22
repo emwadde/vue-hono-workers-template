@@ -31,3 +31,4 @@ pnpm dev
 ```sh
 pnpm build
 ```
+# vue-hono-workers-template
