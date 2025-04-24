@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "zeed-study-v2",
+	"name": "worker-server",
 	"compatibility_date": "2025-04-22",
 	"main": "server/index.ts",
 	"assets": {
